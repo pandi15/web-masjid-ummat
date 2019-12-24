@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/web-masjid-ummat/precache-manifest.ea6aa225769d40612bf0c4b95bbdef57.js"
+  "/web-masjid-ummat/precache-manifest.be34a5d01157357098c0eb3f5bae85ca.js"
 );
 
 self.addEventListener('message', (event) => {

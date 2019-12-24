@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c334e482226cdfb1f6ea4f75ed7e32d1",
+    "revision": "ab3a84a69d5a2e1b7f3bfe7af1c7651c",
     "url": "/web-masjid-ummat/index.html"
   },
   {
-    "revision": "195fb319d9c87191156c",
+    "revision": "9191c844fff29294ea4c",
     "url": "/web-masjid-ummat/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "9b5dfcd9f52ba0de1c08",
+    "revision": "d05c760d59e351cacf3e",
     "url": "/web-masjid-ummat/static/css/main.5e6a3b26.chunk.css"
   },
   {
-    "revision": "195fb319d9c87191156c",
-    "url": "/web-masjid-ummat/static/js/2.40486a92.chunk.js"
+    "revision": "9191c844fff29294ea4c",
+    "url": "/web-masjid-ummat/static/js/2.0e680c53.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/web-masjid-ummat/static/js/2.40486a92.chunk.js.LICENSE"
+    "url": "/web-masjid-ummat/static/js/2.0e680c53.chunk.js.LICENSE"
   },
   {
-    "revision": "9b5dfcd9f52ba0de1c08",
-    "url": "/web-masjid-ummat/static/js/main.f2f5176d.chunk.js"
+    "revision": "d05c760d59e351cacf3e",
+    "url": "/web-masjid-ummat/static/js/main.3cb36990.chunk.js"
   },
   {
     "revision": "59b8c31b0f1870aebce1",

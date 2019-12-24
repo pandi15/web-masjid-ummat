@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/web-masjid-ummat/static/css/main.5e6a3b26.chunk.css",
-    "main.js": "/web-masjid-ummat/static/js/main.f2f5176d.chunk.js",
-    "main.js.map": "/web-masjid-ummat/static/js/main.f2f5176d.chunk.js.map",
+    "main.js": "/web-masjid-ummat/static/js/main.3cb36990.chunk.js",
+    "main.js.map": "/web-masjid-ummat/static/js/main.3cb36990.chunk.js.map",
     "runtime-main.js": "/web-masjid-ummat/static/js/runtime-main.c9abfdf0.js",
     "runtime-main.js.map": "/web-masjid-ummat/static/js/runtime-main.c9abfdf0.js.map",
     "static/css/2.17e5ed98.chunk.css": "/web-masjid-ummat/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.40486a92.chunk.js": "/web-masjid-ummat/static/js/2.40486a92.chunk.js",
-    "static/js/2.40486a92.chunk.js.map": "/web-masjid-ummat/static/js/2.40486a92.chunk.js.map",
+    "static/js/2.0e680c53.chunk.js": "/web-masjid-ummat/static/js/2.0e680c53.chunk.js",
+    "static/js/2.0e680c53.chunk.js.map": "/web-masjid-ummat/static/js/2.0e680c53.chunk.js.map",
     "index.html": "/web-masjid-ummat/index.html",
-    "precache-manifest.ea6aa225769d40612bf0c4b95bbdef57.js": "/web-masjid-ummat/precache-manifest.ea6aa225769d40612bf0c4b95bbdef57.js",
+    "precache-manifest.be34a5d01157357098c0eb3f5bae85ca.js": "/web-masjid-ummat/precache-manifest.be34a5d01157357098c0eb3f5bae85ca.js",
     "service-worker.js": "/web-masjid-ummat/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/web-masjid-ummat/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.5e6a3b26.chunk.css.map": "/web-masjid-ummat/static/css/main.5e6a3b26.chunk.css.map",
-    "static/js/2.40486a92.chunk.js.LICENSE": "/web-masjid-ummat/static/js/2.40486a92.chunk.js.LICENSE",
+    "static/js/2.0e680c53.chunk.js.LICENSE": "/web-masjid-ummat/static/js/2.0e680c53.chunk.js.LICENSE",
     "static/media/main.css": "/web-masjid-ummat/static/media/header.3e43c95f.svg",
     "static/media/mosque.svg": "/web-masjid-ummat/static/media/mosque.83bcbaf6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c9abfdf0.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.40486a92.chunk.js",
+    "static/js/2.0e680c53.chunk.js",
     "static/css/main.5e6a3b26.chunk.css",
-    "static/js/main.f2f5176d.chunk.js"
+    "static/js/main.3cb36990.chunk.js"
   ]
 }
